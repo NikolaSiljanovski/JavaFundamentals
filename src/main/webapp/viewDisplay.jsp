@@ -26,7 +26,8 @@ pageEncoding="UTF-8" import="java.sql.*"%>
   /* Table border color */
   td, th {
     border: 1px solid #ddd;
-  }</style>
+  }
+  </style>
 </head>
 <body>
 <div class="container">
