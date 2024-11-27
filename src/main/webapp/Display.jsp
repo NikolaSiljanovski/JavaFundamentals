@@ -7,9 +7,10 @@
 </head>
 <body>
 <form action="viewDisplay.jsp" method="post">
-<label for="id">Please enter Id</label>
+<label for="id">Please enter your Id: </label>
 <input type="text" name="id" placeholder="Enter Id">
 <input type="submit" value="Submit">
+
 
 </form>
 </body>
